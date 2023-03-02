@@ -1,4 +1,4 @@
-Age,Income,Student,Credit Rating,Buys Comp
+Age,Income,Student,Credit_Rating,Buys_Comp
 youth,high,no,fair,no
 youth,high,no,excellent,no
 middle aged,high,no,fair,yes
